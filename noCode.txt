@@ -25,3 +25,16 @@ Calibration Z ? (avec Ultra sons sur EE fictif)
 Puis lancer impression 
 Controle en temps reel deplacement 
 HES donne feedback SM
+
+Vitesse lente sinon balencement surtout avec un poid 
+sagging = affaisement 
+
+Tolerance ? En fonction de l'epaisseur 
+
+
+https://inria.hal.science/hal-02426400/document
+IR color sensor for calibration
+
+https://www.needlab.org/on-site-3d-printing
+
+https://www.researchgate.net/publication/364644155_Cable_Robotic_3D-printing_additive_manufacturing_on_the_construction_site
