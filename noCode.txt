@@ -4,9 +4,14 @@ SM : Stepepr Motor
 HES : Hall Effect Sensor
 IRC : Infra Red Camera
 LC : Load Cell
+EE : End Effector
 
 Calibration :
 Placer taille meme que end effector avec poids qlq
 IRC stop a chaque pulley un par un à 5 cm -> Connait les limites + carto des emplacement last pulley
 Une fois carto faites, equilibre avec LC -> Connait donc le plan travail (end effector plat et stable suite)
+
+Centrer l'EE fictif puis baisser jusque LC = 0 donc Z min -> On connait h la hauteur netre attache EE et sortie buse 
+Donc on a min z max z (le z de la poulie la plus basse), le plan (gravitationel) et les limites (x,y min max de chaque + angles du plant)
+
 
