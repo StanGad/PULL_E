@@ -14,4 +14,14 @@ Une fois carto faites, equilibre avec LC -> Connait donc le plan travail (end ef
 Centrer l'EE fictif puis baisser jusque LC = 0 donc Z min -> On connait h la hauteur netre attache EE et sortie buse 
 Donc on a min z max z (le z de la poulie la plus basse), le plan (gravitationel) et les limites (x,y min max de chaque + angles du plant)
 
+Mettre le bon EE -> centrer + hauteur z h + hh (eppaisseur couche)
 
+Modelisation -> STL -> Slicer -> G_code
+
+Comprendre le G_code etc...
+Paremettre impression (vitesse, hauteur couche)
+Calibration Z ? (avec Ultra sons sur EE fictif)
+
+Puis lancer impression 
+Controle en temps reel deplacement 
+HES donne feedback SM
