@@ -1,0 +1,12 @@
+
+
+SM : Stepepr Motor 
+HES : Hall Effect Sensor
+IRC : Infra Red Camera
+LC : Load Cell
+
+Calibration :
+Placer taille meme que end effector avec poids qlq
+IRC stop a chaque pulley un par un à 5 cm -> Connait les limites + carto des emplacement last pulley
+Une fois carto faites, equilibre avec LC -> Connait donc le plan travail (end effector plat et stable suite)
+
